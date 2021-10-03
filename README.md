@@ -3,8 +3,7 @@
 
 1. Metode Waterfall
 
-    Waterfall merupakan metode pengembangan perangkat lunak tradisional yang sistematis. Metode ini memiliki lima tahapan proses, di antaranya Communication, Planning, Modeling, Construction, dan Deployment.
-    Communication merupakan fase di mana pelanggan atau pemilik proyek menyampaikan kebutuhan dan permasalahannya kepada pengembang.Selanjutnya, menginjak pada proses perancangan. Dimulai dengan merumuskan estimasi kerja, kebutuhan sumber daya, serta perencanaan alur kerja. Berlanjut dengan tahap perancangan struktur data, arsitektur, tampilan, dan algoritma perangkat lunak. Rancangan kemudian coba diaplikasikan pada perangkat keras komputer dalam bentuk bahasa pemograman. Construction juga mencakup tahapan uji coba pengoperasian perangkat lunak untuk mengetahui kelemahannya.Setelah berhasil dibuat, perangkat lunak disebarluaskan untuk diimplementasikan pada perangkat pengguna secara umum. Temuan-temuan dari pengguna, akan menjadi bahan bagi pengembang untuk mengevaluasi dan memperbaiki perangkat lunak lebih jauh lagi.
+    Metode waterfall adalah salah satu jenis model pengembangan aplikasi dan termasuk ke dalam classic life cycle (siklus hidup klasik), yang mana menekankan pada fase yang berurutan dan sistematis. Untuk model pengembangannya, dapat dianalogikan seperti air terjun, dimana setiap tahap dikerjakan secara berurutan mulai dari atas hingga ke bawah. 
 
 2. Metode Prototype
 
